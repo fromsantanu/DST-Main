@@ -1,2 +1,2 @@
-# STM-Main
-Statistics Main
+# EDA-Main : Statistical Methods
+This part is under construction .. please visit later.
