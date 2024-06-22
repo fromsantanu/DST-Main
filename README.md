@@ -1,12 +1,12 @@
 # STM-Main : Statistical Methods
 This part is under construction .. please visit later.
 
-<!-- Markdown code for the content of your README -->
+!-- Markdown code for the content of your README -->
 
-<div style="text-align: right;">
-  <a href="https://example.com">
-    <img src="https://img.shields.io/badge/Visit-Website-brightgreen" alt="Visit Website">
+<p align="right">
+  <a href="https://www.youtube.com/watch?v=abcd1234" target="_blank">
+    <img src="https://img.shields.io/badge/Watch-Video-red" alt="Watch Video">
   </a>
-</div>
+</p>
 
 <!-- More Markdown content -->
