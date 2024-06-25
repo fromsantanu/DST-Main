@@ -6,6 +6,8 @@ In this section we are using various statistical methods to analyse health condi
 - [Analysis of Total Cholestrol Level Among Group of Patients](https://github.com/fromsantanu/Project2-STM-Analysis-of-Total-Cholestrol-Level)  : The program analyzes spread of Total-Cholestrol-Level readings from mean value. 
 - [Estimating New Cases Using Poisson Distribution Method](https://github.com/fromsantanu/Project3-STM-New-Cases-Estimation-Using-Poisson-Distribution)  : Predict new diseases cases using Poisson Distribution method (A way to eveluate probality distribution).
 - [Statistical analysis of Diabetic population](https://github.com/fromsantanu/Project4-STM-Analysis-of-High-Blood-Sugar-Population)  : Statistical analysis of Diabetic population in a specific region using descriptive statistics and histograms.
+- [Correlation between Busy Hospital and Chances of Survival](https://github.com/fromsantanu/Project5-STM-Busy-Hospital-Vs-Heart-Survival-Rates)  : Data for hospitals conducting heart surgeries are compared and a correlation have been established between chances of survival of their patients.
+- [Correlation between Smoking and Chances of Lung Cancer](https://github.com/fromsantanu/Project6-STM-The-Relation-Between-Smoking-And-Lung-Cancer)  : We have tried to find a correlation between smoking rates of cigerettes and chances of developing lung cancer.
 
 
 
