@@ -8,6 +8,7 @@ In this section we are using various statistical methods to analyse health condi
 - [Statistical analysis of Diabetic population](https://github.com/fromsantanu/Project4-STM-Analysis-of-High-Blood-Sugar-Population)  : Statistical analysis of Diabetic population in a specific region using descriptive statistics and histograms.
 - [Correlation between Busy Hospital and Chances of Survival](https://github.com/fromsantanu/Project5-STM-Busy-Hospital-Vs-Heart-Survival-Rates)  : Data for hospitals conducting heart surgeries are compared and a correlation have been established between chances of survival of their patients.
 - [Correlation between Smoking and Chances of Lung Cancer](https://github.com/fromsantanu/Project6-STM-The-Relation-Between-Smoking-And-Lung-Cancer)  : We have tried to find a correlation between smoking rates of cigerettes and chances of developing lung cancer.
+- [Calculating the mean hospital stay of patients](https://github.com/fromsantanu/Project7-STM-Calculating-Mean-Hospital-Stay)  : Calculating mean hospital stay for admitted patients using Central Limit Theorem with a population of 10000 patients and using 1000 samples of 50 patients.
 
 
 
