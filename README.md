@@ -1,5 +1,5 @@
-# STM-Main : Statistical Methods
-In this section we are using various statistical methods to analyse health conditions of a population or a single person (in some cases). We also use various methods of predictions to deal with uncertainty,
+# DST-Main : Descriptive Statistics
+In this section we are using various statistical methods to analyse health conditions of a population or a single person (in some cases), especially dealing dispersion, central tendency and plotting them on chart
 
 ## Key STM Projects
 - [Assessing Blood Pressure Stability Among Individuals or Group](https://github.com/fromsantanu/Project1-STM-Blood-Pressure-Stability)  : Here blood pressure study of systolic readings of two individuals indicate that one is stable and other is heavily fluctuating causing greater risk of heart attack.
