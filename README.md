@@ -9,6 +9,9 @@ In this section we are using various statistical methods to analyse health condi
 - [Correlation between Busy Hospital and Chances of Survival](https://github.com/fromsantanu/Project5-STM-Busy-Hospital-Vs-Heart-Survival-Rates)  : Data for hospitals conducting heart surgeries are compared and a correlation have been established between chances of survival of their patients.
 - [Correlation between Smoking and Chances of Lung Cancer](https://github.com/fromsantanu/Project6-STM-The-Relation-Between-Smoking-And-Lung-Cancer)  : We have tried to find a correlation between smoking rates of cigerettes and chances of developing lung cancer.
 - [Calculating the mean hospital stay of patients](https://github.com/fromsantanu/Project7-STM-Calculating-Mean-Hospital-Stay)  : Calculating mean hospital stay for admitted patients using Central Limit Theorem with a population of 10000 patients and using 1000 samples of 50 patients.
+- [Selections in medical colleges](https://github.com/fromsantanu/Project8-STM-Selection-In-Medical-Colleges)  : Three lacs candidates sat for entrence test. Only 10000 seats are available for admission. Out of these 1000 are in the top level medical colleges and rest will be absorbed by regional colleges.
+- [Assessment of Hospital Admission Time](https://github.com/fromsantanu/Project9-STM-Hospital-Admission-Time)  : To analyze the distribution of hospital admission times in a healthcare facility to understand the spread and central tendency of the data.
+- [Calculating Post Surgery Recovery Time](https://github.com/fromsantanu/Project10-STM-Post-Surgery-Recovery-Time)  :To demonstrate the use of violin plots in visualizing the distribution of patient recovery times after surgery in different age groups.
 
 
 
