@@ -12,6 +12,7 @@ In this section we are using various statistical methods to analyse health condi
 - [Selections in medical colleges](https://github.com/fromsantanu/Project8-STM-Selection-In-Medical-Colleges)  : Three lacs candidates sat for entrence test. Only 10000 seats are available for admission. Out of these 1000 are in the top level medical colleges and rest will be absorbed by regional colleges.
 - [Assessment of Hospital Admission Time](https://github.com/fromsantanu/Project9-STM-Hospital-Admission-Time)  : To analyze the distribution of hospital admission times in a healthcare facility to understand the spread and central tendency of the data.
 - [Calculating Post Surgery Recovery Time](https://github.com/fromsantanu/Project10-STM-Post-Surgery-Recovery-Time)  :To demonstrate the use of violin plots in visualizing the distribution of patient recovery times after surgery in different age groups.
+- [Dealing With Factors Affecting A Disease](https://github.com/fromsantanu/Project11-Dealing-With-Factors-Affecting-A-Disease)  :To demonstrate the use of dependent, independent and confounding variables.
 
 
 
