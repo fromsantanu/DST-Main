@@ -1,4 +1,4 @@
-# DST-Main : Descriptive Statistics
+# DST-Main : Descriptive Statistics  ![HitCount](https://hits.dwyl.com/fromsantanu/DST-Main.svg)
 The scope includes application of mean, medean and mode, varience, covarience, standard deviation, and concept of quartiles and quantiles.
 
 ## Key DST Projects
